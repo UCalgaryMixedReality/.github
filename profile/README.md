@@ -102,11 +102,11 @@ We’re proudly supported by industry-leading organizations who help make our wo
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/UCalgaryMixedReality/ARmed-Website/blob/main/public/images/altium-logo.png" alt="Altium" height="60"><br>
+      <img src="https://github.com/UCalgaryMixedReality/ARmed-Website/blob/main/public/images/altium_logo.png" alt="Altium" height="60"><br>
       <strong>Altium</strong>
     </td>
     <td align="center">
-      <img src="https://github.com/UCalgaryMixedReality/ARmed-Website/blob/main/public/images/neuropawn.jpg" alt="Neuropawn" height="60"><br>
+      <img src="https://github.com/UCalgaryMixedReality/ARmed-Website/blob/main/public/images/neuropawn.avif" alt="Neuropawn" height="60"><br>
       <strong>Neuropawn</strong>
     </td>
     <td align="center">
@@ -125,4 +125,4 @@ Reach out to us through our [website](https://uc-mixedreality.ca/) or follow us 
 
 ---
 
-Thanks for visiting our organization — we can’t wait to show you what we’re building next.
+Thanks for checking out our organization — we can’t wait to show you what we’re building next.
